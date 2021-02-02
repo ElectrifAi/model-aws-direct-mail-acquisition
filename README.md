@@ -8,4 +8,4 @@ Improve home loan conversions via direct mail channels, including purchase and r
 
 SKU: DCOPT-PS-CCC-AWS-001
 
-AWS SageMaker: 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-iqhpcgwdhvbwo
